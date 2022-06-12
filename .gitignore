@@ -1,0 +1,7 @@
+# vs code project files
+.history
+.vscode
+
+# yarn
+yarn.lock
+node_modules
