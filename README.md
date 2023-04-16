@@ -6,7 +6,7 @@
   <a href="https://github.com/iamzjt-front-end">
     <img src="https://img.shields.io/badge/Github-iamzjt--front--end-blue" alt="IamZJT" />
   </a>&emsp;
-  <a href="https://github.com/vuejs/core">
+  <a href="https://leetcode.cn/problemset/all/">
     <img src="https://img.shields.io/badge/-LeetCode-%232c3e50?style=flat-square&logo=leetcode" alt="LeetCode">
   </a>&emsp;
   <a href="https://github.com/iamzjt-front-end">
@@ -34,6 +34,6 @@
 
 ## 刷题记录
 
-| #  | 标题                                                       | 难度 | 标签 | 题解                                                                                              |
-|----|----------------------------------------------------------|----|----|-------------------------------------------------------------------------------------------------|
+| #  | 标题                                                       | 难度 | 标签 | 题解                                                                                               |
+|----|----------------------------------------------------------|----|----|--------------------------------------------------------------------------------------------------|
 | 20 | [有效的括号](https://leetcode.cn/problems/valid-parentheses/) | 简单 | 栈  | 🎯 [链接](https://github.com/iamzjt-front-end/algorithm-study/blob/main/leetcode/%5B20%5D有效的括号.md) |
