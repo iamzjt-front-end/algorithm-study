@@ -4,10 +4,6 @@
   </a>
 </p>
 
-<h1 align="center">
-  algorithm-study
-</h1>
-
 <p align="center">
   <a href="https://github.com/iamzjt-front-end">
     <img src="https://img.shields.io/badge/Github-iamzjt--front--end-blue" alt="IamZJT" />
@@ -19,6 +15,10 @@
     <img src="https://komarev.com/ghpvc/?username=iamzjt-front-end&label=++访客统计++&color=lightgrey" alt="访客统计" />
   </a>&emsp;
 </p>
+
+<h1 align="center">
+  algorithm-study
+</h1>
 
 ## 介绍
 
