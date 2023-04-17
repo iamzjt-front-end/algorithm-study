@@ -1,0 +1,9 @@
+{
+  "name": "algorithm-study",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:iamzjt-front-end/algorithm-study.git",
+  "author": "iamzjt-front-end <iamzjt@foxmail.com>",
+  "license": "MIT",
+  "type": "module"
+}
