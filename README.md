@@ -38,6 +38,8 @@
 
 [📄 03_栈](https://github.com/iamzjt-front-end/algorithm-study/blob/main/docs/md/03_栈.md)
 
+[📄 08_树](https://github.com/iamzjt-front-end/algorithm-study/blob/main/docs/md/08_树.md)
+
 ## 刷题记录
 
 | #  | 标题                                                       | 难度 | 标签 | 题解                                                                                               |
