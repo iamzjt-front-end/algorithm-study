@@ -11,6 +11,7 @@ const preorder = (root) => {
 
 preorder(bt);
 
+// root
 // left-1
 // left-1-1
 // left-1-2
