@@ -42,7 +42,38 @@
 
 ## 刷题记录
 
-| #   | 标题                                                                       | 难度 | 标签  | 题解                                                                                                   |
-|-----|--------------------------------------------------------------------------|----|-----|------------------------------------------------------------------------------------------------------|
-| 20  | [有效的括号](https://leetcode.cn/problems/valid-parentheses/)                 | 简单 | 栈   | 🎯 [链接](https://github.com/iamzjt-front-end/algorithm-study/blob/main/leetcode/%5B20%5D有效的括号.md)     |
-| 144 | [二叉树的前序遍历](https://leetcode.cn/problems/binary-tree-preorder-traversal/) | 简单 | 二叉树 | 🎯 [链接](https://github.com/iamzjt-front-end/algorithm-study/blob/main/leetcode/%5B144%5D二叉树的前序遍历.md) |
+<table>
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>标题</th>
+      <th>难度</th>
+      <th>标签</th>
+      <th>题解</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>20</td>
+      <td align="center">
+        <a href="https://leetcode.cn/problems/valid-parentheses/">有效的括号</a>
+      </td>
+      <td>简单</td>
+      <td align="center">栈</td>
+      <td>
+        <a href="https://github.com/iamzjt-front-end/algorithm-study/blob/main/leetcode/%5B20%5D有效的括号.md">🎯 链接</a>
+      </td>
+    </tr>
+    <tr>
+      <td>144</td>
+      <td align="center">
+        <a href="https://leetcode.cn/problems/binary-tree-preorder-traversal/">二叉树的前序遍历</a>
+      </td>
+      <td>简单</td>
+      <td align="center">二叉树</td>
+      <td>
+        <a href="https://github.com/iamzjt-front-end/algorithm-study/blob/main/leetcode/%5B144%5D二叉树的前序遍历.md">🎯 链接</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
